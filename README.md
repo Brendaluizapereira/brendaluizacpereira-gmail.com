@@ -1,0 +1,57 @@
+# brendaluizacpereira-gmail.com
+Projetos do curso Complete Web Developer 
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Anna Bella Model</title>
+
+	<meta charset="utf-8">
+
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+
+	
+</head>
+
+<body>
+>
+	<div id="principal">
+		
+		<center>
+		<img src="imagens/capa.png">
+			
+
+
+			<div id="menu">
+			<a href="index.html">HOME</a>|
+			<a href="biografia.html">BIOGRAFIA</a>|
+			<a href="campanhas.html">CAMPANHAS PUBLICITÁRIAS</a>|
+			<a href="contato.html">CONTATO</a>
+
+			</div>
+
+			<div id="conteudo">
+				<h1>Sobre Anna Bella</h1>
+				<p> 
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam lacus non pretium pharetra. Maecenas aliquam nulla rutrum fringilla sodales. Duis condimentum sollicitudin augue, sit amet ornare eros pretium sit amet. Fusce lacinia aliquet est at dictum. Morbi pharetra, arcu eu convallis congue, odio dolor consequat arcu, vitae ornare nisl lacus non libero.
+				</p>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam lacus non pretium pharetra. Maecenas aliquam nulla rutrum fringilla sodales. Duis condimentum sollicitudin augue, sit amet ornare eros pretium sit amet. Fusce lacinia aliquet est at dictum. Morbi pharetra, arcu eu convallis congue, odio dolor consequat arcu, vitae ornare nisl lacus non libero.
+				</p>
+
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam lacus non pretium pharetra. Maecenas aliquam nulla rutrum fringilla sodales. Duis condimentum sollicitudin augue, sit amet ornare eros pretium sit amet. Fusce lacinia aliquet est at dictum. Morbi pharetra, arcu eu convallis congue, odio dolor consequat arcu, vitae ornare nisl lacus non libero.
+				</p>
+
+				</center>
+
+			</div>
+			<div id="rodape">
+				<strong>
+				Todos os direitos reservados.
+			</strong>
+			</div>
+		
+	</div>
+</body>
+</html>
