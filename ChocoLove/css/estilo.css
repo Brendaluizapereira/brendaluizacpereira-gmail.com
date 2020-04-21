@@ -1,0 +1,171 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Trebuchet MS, Helvetica, sans-serif;
+	color: #cc8800;
+}
+
+p {
+	color: #76200D;
+}
+
+h1 {
+	/*background: #D81D4C;*/
+	padding-top: 15px;
+	padding-left: 250px;
+	color: #D81D4C;
+	font-size: 1.2em;	
+}
+
+h2 {
+	font-size: 1.2em;
+	color: #D81D4C;
+	padding-bottom: 10px;
+}
+
+h3 {
+	font-size: 1em;
+	color:  #76200D;
+	padding-bottom: 10px;
+}
+
+img.imagem-principal {
+	width: 98%;
+	border: 3px solid #DF9903;
+}
+
+ul {
+	list-style: none;
+	float: left;
+	color: #76200D;
+	padding-left: 250px;
+}
+
+.logo {
+	/*border: 1px solid red;*/
+	position:relative;
+	top: 10px;
+	left: 200px;
+	background: url(../imagens/chocologoP.png);
+	background-repeat: no-repeat;
+	width: 500px;
+	height: 300px;
+	text-indent: -3000px;
+	/*z-index: 2;*/
+}
+
+.caixa-lateral {	
+	padding: 5px;
+	margin-top: 5px;
+	color: #D81D4C;
+}
+
+.caixa-lateral a {
+	color: #76200D;
+	text-decoration: none;
+}
+
+.caixa-lateral a:hover {
+	color: #D81D4C;
+	font-size: 0.9em;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.caixa {
+	margin: 10px 0;
+	padding-left: 7px;
+	/*background: #f3f3f3 url(../imagens/fundo-caixa.png)*/
+}
+
+.destaque {
+	/*border: 1px solid red;*/
+	width: 800px;
+	height: 800px;
+	padding-left: 60px;
+	margin-top: 5px;
+	/*right:-90px;*/
+	float: left;
+	margin-top: -40px;
+}
+
+.inicio {
+	padding-left: 25px;
+}
+
+#topo {
+	/*border: 1px solid red;*/
+	width: 1350px;
+	height: 250px;
+	margin: auto;
+	background: url(../imagens/choctopo.png);
+	/*z-index: 3;*/
+}
+
+#area-menu {
+	/*border: 1px solid red;*/
+	width: 900px;
+	height: 100px;
+	background: url(../imagens/menu.jpg) no-repeat;
+	position: absolute;
+	top: 38px;
+	right: -150px;
+	padding: 25px;
+	/*z-index: 1;*/
+}
+
+#area-logo {
+	width: 500px;
+	height: 100px;
+	top: 0;
+	left: 0;
+}
+
+#area-menu a {
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Trebuchet MS, Helvetica, sans-serif;
+	font-size: 1,9em;
+	padding-left: 12px;
+	color: #fff;
+	}
+
+#area-menu a:hover {
+	text-decoration: none;
+	color: #D81D4C;
+}
+
+
+
+
+
+/*#area-logo {
+	position: absolute;
+	background: url(../imagens/logochoc.png) no-repeat;
+	width: 100%;
+	height: 250px;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+
+
+
+#topo {
+	position: relative;
+	background: #dbcd87;
+	height: 15.4em;
+	min-height: 250px;
+}*/
+
+/*#topo {
+	text-indent: -3000;
+	border: 1px solid red;
+	padding: 20px;
+	height: 15.4em;
+	min-height: 250px;
+}*/
